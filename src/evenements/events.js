@@ -288,8 +288,8 @@ function Events(doc, options) {
                     Sinon vous pouvez également me retrouver ici : <br/>
                     <br/>
                     - Linkedin : <a href="https://www.linkedin.com/in/ludovic-leveneur-26117817b/">https://www.linkedin.com/in/ludovic-leveneur-26117817b/</a> <br/>
-                    - Github : <a href="https://github.com/ludovicl974">https://github.com/ludovicl974</a> <br/>
-                    - Discord : Cyberghost#0463 <br/>
+                    - Github : <a href="https://github.com/ludovicl974">https://github.com/lleveneur</a> <br/>
+                    - Discord : lleveneur#0463 <br/>
                     - Email : ludovic.lvnr.freelance@gmail.com <br/>
                     </p>`,
                     input: false

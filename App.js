@@ -11,7 +11,7 @@ shell.Body(doc, {
     <h2>Bienvenue sur mon portfolio</h2>
     <p>Développeur web </p>
     <a href="https://www.linkedin.com/in/ludovic-leveneur-26117817b/" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
-    <a href="mailto:ludovic.lvnr@gmail.com"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/></a>
+    <a href="mailto:ludovic.lvnr.freelance@gmail.com"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/></a>
     </div>`
 });
 

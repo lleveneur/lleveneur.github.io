@@ -204,8 +204,8 @@ function Events(doc, options) {
                     <br/>
                     - Linkedin : <a href="https://www.linkedin.com/in/ludovic-leveneur-26117817b/">https://www.linkedin.com/in/ludovic-leveneur-26117817b/</a> <br/>
                     - Whatsapp : <a href="https://wa.me/262692729322">https://wa.me/262692729322</a> <br/>
-                    - Github : <a href="https://github.com/ludovicl974">https://github.com/ludovicl974</a> <br/>
-                    - Discord : Cyberghost#0463 <br/>
+                    - Github : <a href="https://github.com/ludovicl974">https://github.com/lleveneur</a> <br/>
+                    - Discord : lleveneur#0463 <br/>
                     - Email : ludovic.lvnr.freelance@gmail.com <br/>
                     </p>`
                 })
