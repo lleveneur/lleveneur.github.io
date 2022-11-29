@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Développeur web spécialisé dans les applications web. 
+    Je mets également mes connaissances aux services de l'open-source en développant des solutions." />
+    <title>Ludovic L. - Développeur web</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css">
+    <!-- <link rel="stylesheet" href="lightmode.css"> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <!-- <script src="./App.js" type="module"></script> -->
+    <!-- <script src="./Appmobile.js" type="module"></script> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" id="mode">
+</head>
+<body>
+    
+    <div class="container" id="container">
+
+    </div>
+
+    <script>
+
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+        // true for mobile device
+            let addScript = document.createElement('script')
+            addScript.src = './Appmobile.js'
+            addScript.type = 'module'
+            document.head.appendChild(addScript);
+        }else{
+        // false for not mobile device
+            let addScript = document.createElement('script')
+            addScript.src = './App.js'
+            addScript.type = 'module'
+            document.head.appendChild(addScript);
+        }
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "titre": "Article de test",
+        "slug": "lorem",
+        "fichier": "lorem.md",
+        "enable": true
+    }
+]

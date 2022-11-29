@@ -1,0 +1,24 @@
+:root {
+    --container-colonneUn-bgcolor: #E3E5E8;
+    --container-colonneDeux-bgcolor: #F2F3F5;
+    --container__colonneDeux-header-borderBottom: 1px solid #E3E3E3;
+    --container__colonneDeux-header-color: black;
+    --contenu__body-color: black;
+    --contenu__body-color-mobile: white;
+    --container__colonneDeux-footer-borderTop: 1px solid #E3E3E3;
+    --container__colonneDeux-footer-color: black;
+    --container__colonneTrois-bgColor: #FFFFFF;
+    --container__colonneTrois-header-borderBottom: 1px solid #E3E3E3;
+    --container__colonneTrois-header-color: black;
+    --container__colonneTrois-footer-color: black;
+    --hr-border: 1px solid #2D2F32;
+    --article-borderBottom: 3px solid #E3E3E3;
+    --webkit-scrollbar-track-bgColor: #ebebeb;
+    --webkit-scrollbar-thumb-bgColor: #6d6d6d; 
+    --form-control-bgColor: #EBEDEF;
+    --form-control-border: 1px solid #EBEDEF;
+    --form-control-color: black;
+    --badge-bgColor: #E8505B;
+    --badge-color: #fff;
+    --a-color: black;
+}
